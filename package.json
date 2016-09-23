@@ -1,0 +1,22 @@
+{
+  "name": "rerquirejs-test",
+  "version": "1.0.0",
+  "description": "Testing requiere js app",
+  "main": "main-test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "grunt": "0.4.0",
+    "grunt-mocha": "~0.4.6",
+    "mocha": "^2.2.4"
+  },
+  "devDependencies": {
+    "grunt-mocha-require-phantom": "^0.8.0",
+    "grunt-mocha-test": "^0.12.7",
+    "requirejs": "^2.3.1"
+  }
+}
