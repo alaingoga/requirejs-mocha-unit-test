@@ -174,6 +174,7 @@ Running "mochaTest:test" (mochaTest) task
 
 In fact what we are doing is using the requirejs modules as node modules and injecting them for the correspondent test. 
 
-### Enjoy!
+Also read: [requirejs in node](http://requirejs.org/docs/node.html)
+
 
 
