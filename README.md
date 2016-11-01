@@ -176,6 +176,5 @@ In fact what we are doing is using the requirejs modules as node modules and inj
 
 Also read: [requirejs in node](http://requirejs.org/docs/node.html)
 
-### Enjoy!
 
 
